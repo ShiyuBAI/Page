@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 👋
 
-I am a Postdoctoral Fellow in the Department of Aeronautical and Aviation Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/aae/).
+I am a Postdoctoral Fellow in the [Department of Aeronautical and Aviation Engineering](https://www.polyu.edu.hk/en/aae/) at The Hong Kong Polytechnic University.
 
 My research interest includes:
 
